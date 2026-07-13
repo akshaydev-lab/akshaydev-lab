@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Akshay Bhor
 
-<!--
-**akshaydev-lab/akshaydev-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 AI & ML Engineering Student
 
-Here are some ideas to get you started:
+I'm an aspiring AI Engineer and Startup Founder from India.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building **Project Frontier** — an AI platform to help students learn better, build projects, and prepare for internships.
+
+---
+
+## 🎯 Current Goals
+
+- 🧠 Master Python
+- 🤖 Learn AI & Machine Learning
+- 🚀 Build Project Frontier
+- 💼 Crack an AI Internship in First Year
+- 🌍 Contribute to Open Source
+
+---
+
+## 💻 Tech Stack
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Python
+- Machine Learning
+- Deep Learning
+- LLMs
+- Web Development
+
+---
+
+## 📫 Connect With Me
+
+🌐 Website:
+https://akshay-ai-tools.online
+
+---
+
+⭐ Learning Every Day.
+Building Every Day.
