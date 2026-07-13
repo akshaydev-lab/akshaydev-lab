@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Akshay Bhor
 
-## 🚀 AI & ML Engineering Student
+## 🚀 B.Tech (AI & ML) Student at NIAT alard univesity
 
 I'm an aspiring AI Engineer and Startup Founder from India.
 
