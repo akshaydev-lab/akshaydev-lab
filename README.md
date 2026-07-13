@@ -2,7 +2,7 @@
 
 ## 🚀 B.Tech (AI & ML) Student at NIAT alard univesity
 
-I'm an aspiring AI Engineer and Startup Founder from India.
+I'm an aspiring AI Engineer and Building Project Frontier
 
 Currently building **Project Frontier** — an AI platform to help students learn better, build projects, and prepare for internships.
 
@@ -22,7 +22,7 @@ Currently building **Project Frontier** — an AI platform to help students lear
 
 - Python
 - HTML
-- CSS
+  
 - JavaScript
 - Git
 - GitHub
